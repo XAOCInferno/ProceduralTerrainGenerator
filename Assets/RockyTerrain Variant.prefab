@@ -1,0 +1,179 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3842473424716774724
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 307520539440203334, guid: 7e4590897ea7a64409a218efaf4be9ce, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 12758a961f812c54fa1d80d8d1d0ce33, type: 2}
+    - target: {fileID: 5638647450108686455, guid: 7e4590897ea7a64409a218efaf4be9ce, type: 3}
+      propertyPath: snowEmitter
+      value: 
+      objectReference: {fileID: 5792626146126144345, guid: dd08c565a4a1f58408b2a44a8885035a, type: 3}
+    - target: {fileID: 5638647450108686455, guid: 7e4590897ea7a64409a218efaf4be9ce, type: 3}
+      propertyPath: allTerrainBumps.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5638647450108686455, guid: 7e4590897ea7a64409a218efaf4be9ce, type: 3}
+      propertyPath: terrainColourGradient.ctime1
+      value: 3662
+      objectReference: {fileID: 0}
+    - target: {fileID: 5638647450108686455, guid: 7e4590897ea7a64409a218efaf4be9ce, type: 3}
+      propertyPath: terrainColourGradient.ctime2
+      value: 31997
+      objectReference: {fileID: 0}
+    - target: {fileID: 5638647450108686455, guid: 7e4590897ea7a64409a218efaf4be9ce, type: 3}
+      propertyPath: terrainColourGradient.ctime3
+      value: 55319
+      objectReference: {fileID: 0}
+    - target: {fileID: 5638647450108686455, guid: 7e4590897ea7a64409a218efaf4be9ce, type: 3}
+      propertyPath: terrainColourGradient.ctime4
+      value: 65535
+      objectReference: {fileID: 0}
+    - target: {fileID: 5638647450108686455, guid: 7e4590897ea7a64409a218efaf4be9ce, type: 3}
+      propertyPath: terrainColourGradient.ctime5
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5638647450108686455, guid: 7e4590897ea7a64409a218efaf4be9ce, type: 3}
+      propertyPath: terrainColourGradient.key0.b
+      value: 0.2951673
+      objectReference: {fileID: 0}
+    - target: {fileID: 5638647450108686455, guid: 7e4590897ea7a64409a218efaf4be9ce, type: 3}
+      propertyPath: terrainColourGradient.key0.g
+      value: 0.3139306
+      objectReference: {fileID: 0}
+    - target: {fileID: 5638647450108686455, guid: 7e4590897ea7a64409a218efaf4be9ce, type: 3}
+      propertyPath: terrainColourGradient.key0.r
+      value: 0.9339623
+      objectReference: {fileID: 0}
+    - target: {fileID: 5638647450108686455, guid: 7e4590897ea7a64409a218efaf4be9ce, type: 3}
+      propertyPath: terrainColourGradient.key1.b
+      value: 0.06666665
+      objectReference: {fileID: 0}
+    - target: {fileID: 5638647450108686455, guid: 7e4590897ea7a64409a218efaf4be9ce, type: 3}
+      propertyPath: terrainColourGradient.key1.g
+      value: 0.25174358
+      objectReference: {fileID: 0}
+    - target: {fileID: 5638647450108686455, guid: 7e4590897ea7a64409a218efaf4be9ce, type: 3}
+      propertyPath: terrainColourGradient.key1.r
+      value: 0.6901961
+      objectReference: {fileID: 0}
+    - target: {fileID: 5638647450108686455, guid: 7e4590897ea7a64409a218efaf4be9ce, type: 3}
+      propertyPath: terrainColourGradient.key2.b
+      value: 0.23921567
+      objectReference: {fileID: 0}
+    - target: {fileID: 5638647450108686455, guid: 7e4590897ea7a64409a218efaf4be9ce, type: 3}
+      propertyPath: terrainColourGradient.key2.g
+      value: 0.34772876
+      objectReference: {fileID: 0}
+    - target: {fileID: 5638647450108686455, guid: 7e4590897ea7a64409a218efaf4be9ce, type: 3}
+      propertyPath: terrainColourGradient.key2.r
+      value: 0.54901963
+      objectReference: {fileID: 0}
+    - target: {fileID: 5638647450108686455, guid: 7e4590897ea7a64409a218efaf4be9ce, type: 3}
+      propertyPath: terrainColourGradient.key3.b
+      value: 0.21106264
+      objectReference: {fileID: 0}
+    - target: {fileID: 5638647450108686455, guid: 7e4590897ea7a64409a218efaf4be9ce, type: 3}
+      propertyPath: terrainColourGradient.key3.g
+      value: 0.21106264
+      objectReference: {fileID: 0}
+    - target: {fileID: 5638647450108686455, guid: 7e4590897ea7a64409a218efaf4be9ce, type: 3}
+      propertyPath: terrainColourGradient.key3.r
+      value: 0.2924528
+      objectReference: {fileID: 0}
+    - target: {fileID: 5638647450108686455, guid: 7e4590897ea7a64409a218efaf4be9ce, type: 3}
+      propertyPath: terrainColourGradient.key4.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5638647450108686455, guid: 7e4590897ea7a64409a218efaf4be9ce, type: 3}
+      propertyPath: terrainColourGradient.key4.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5638647450108686455, guid: 7e4590897ea7a64409a218efaf4be9ce, type: 3}
+      propertyPath: terrainColourGradient.key4.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5638647450108686455, guid: 7e4590897ea7a64409a218efaf4be9ce, type: 3}
+      propertyPath: terrainColourGradient.key5.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5638647450108686455, guid: 7e4590897ea7a64409a218efaf4be9ce, type: 3}
+      propertyPath: terrainColourGradient.key5.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5638647450108686455, guid: 7e4590897ea7a64409a218efaf4be9ce, type: 3}
+      propertyPath: terrainColourGradient.key5.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5638647450108686455, guid: 7e4590897ea7a64409a218efaf4be9ce, type: 3}
+      propertyPath: allTerrainBumps.Array.data[1]
+      value: 
+      objectReference: {fileID: 11400000, guid: 12eabc02ea675ec499d373503100fde4, type: 2}
+    - target: {fileID: 5638647450108686455, guid: 7e4590897ea7a64409a218efaf4be9ce, type: 3}
+      propertyPath: allTerrainBumps.Array.data[2]
+      value: 
+      objectReference: {fileID: 11400000, guid: de84d7344785ea647ac80ef376163dc1, type: 2}
+    - target: {fileID: 5638647450108686455, guid: 7e4590897ea7a64409a218efaf4be9ce, type: 3}
+      propertyPath: allTerrainBumps.Array.data[3]
+      value: 
+      objectReference: {fileID: 11400000, guid: 989ee14c04d704b4d8a53b2ecbbb157f, type: 2}
+    - target: {fileID: 5638647450108686455, guid: 7e4590897ea7a64409a218efaf4be9ce, type: 3}
+      propertyPath: terrainColourGradient.m_NumColorKeys
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7177063918197298630, guid: 7e4590897ea7a64409a218efaf4be9ce, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7177063918197298630, guid: 7e4590897ea7a64409a218efaf4be9ce, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7177063918197298630, guid: 7e4590897ea7a64409a218efaf4be9ce, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7177063918197298630, guid: 7e4590897ea7a64409a218efaf4be9ce, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7177063918197298630, guid: 7e4590897ea7a64409a218efaf4be9ce, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7177063918197298630, guid: 7e4590897ea7a64409a218efaf4be9ce, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7177063918197298630, guid: 7e4590897ea7a64409a218efaf4be9ce, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7177063918197298630, guid: 7e4590897ea7a64409a218efaf4be9ce, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7177063918197298630, guid: 7e4590897ea7a64409a218efaf4be9ce, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7177063918197298630, guid: 7e4590897ea7a64409a218efaf4be9ce, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8498254731594033140, guid: 7e4590897ea7a64409a218efaf4be9ce, type: 3}
+      propertyPath: m_Name
+      value: RockyTerrain Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e4590897ea7a64409a218efaf4be9ce, type: 3}
