@@ -321,7 +321,7 @@ public class TerrainMeshGeneration : MonoBehaviour
                 int farLeft = x - Centre.x;
                 int farTop = y - Centre.y;
 
-                //x2 + z2 <= r2 (in circle) [Pythagorus] 
+                //x2 + y2 <= r2 (in circle) [Pythagorus] 
                 double location = System.Math.Pow(farLeft, 2) + System.Math.Pow(farTop, 2);
                 if (location <= rad2)
                 {
